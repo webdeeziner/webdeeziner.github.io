@@ -6,24 +6,59 @@
     <description>Recent content in Home on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 13:55:15 +0100</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Firstpost</title>
-      <link>https://webdeeziner.github.io/posts/firstpost/</link>
-      <pubDate>Sun, 13 Jun 2021 13:55:15 +0100</pubDate>
+      <title>Article 3</title>
+      <link>https://webdeeziner.github.io/work/article3/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://webdeeziner.github.io/posts/firstpost/</guid>
-      <description>My first post Is this a smaller header *Is this an even smaller header
-And is this a paragraph of text?</description>
+      <guid>https://webdeeziner.github.io/work/article3/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
     </item>
     
     <item>
-      <title>My 2nd Post</title>
-      <link>https://webdeeziner.github.io/posts/secondpost/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Blog number3</title>
+      <link>https://webdeeziner.github.io/blog/blog3/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://webdeeziner.github.io/posts/secondpost/</guid>
-      <description>Welcome to my 2nd post with some of my work in progress.</description>
+      <guid>https://webdeeziner.github.io/blog/blog3/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>Blog number 2</title>
+      <link>https://webdeeziner.github.io/blog/blog2/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog2/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://webdeeziner.github.io/work/post2/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/work/post2/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>Article1</title>
+      <link>https://webdeeziner.github.io/work/article1/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/work/article1/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>Blog Article number 1</title>
+      <link>https://webdeeziner.github.io/blog/blog1/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog1/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
     </item>
     
   </channel>
