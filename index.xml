@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Deeziner</title>
+    <title>Deeziner</title>
     <link>https://webdeeziner.github.io/</link>
-    <description>Recent content in Home on Deeziner</description>
+    <description>Recent content on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Article 3</title>
-      <link>https://webdeeziner.github.io/work/article3/</link>
-      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://webdeeziner.github.io/work/article3/</guid>
-      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
-    </item>
-    
     <item>
       <title>Blog number3</title>
       <link>https://webdeeziner.github.io/blog/blog3/</link>
@@ -23,6 +14,15 @@
       
       <guid>https://webdeeziner.github.io/blog/blog3/</guid>
       <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>College Work</title>
+      <link>https://webdeeziner.github.io/work/college/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/work/college/</guid>
+      <description>I recently went back to my old college portfolio and decided I should put it online for posterity.</description>
     </item>
     
     <item>
@@ -35,21 +35,12 @@
     </item>
     
     <item>
-      <title>Post 2</title>
-      <link>https://webdeeziner.github.io/work/post2/</link>
+      <title>Print Design</title>
+      <link>https://webdeeziner.github.io/work/printdesign/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://webdeeziner.github.io/work/post2/</guid>
-      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
-    </item>
-    
-    <item>
-      <title>Article1</title>
-      <link>https://webdeeziner.github.io/work/article1/</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://webdeeziner.github.io/work/article1/</guid>
-      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+      <guid>https://webdeeziner.github.io/work/printdesign/</guid>
+      <description>A selection of print design work undertaken over the years.</description>
     </item>
     
     <item>
@@ -59,6 +50,16 @@
       
       <guid>https://webdeeziner.github.io/blog/blog1/</guid>
       <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://webdeeziner.github.io/work/webdesign/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/work/webdesign/</guid>
+      <description>A selection of some of my recent web design work.
+encore a drama group for under 5s freetobook an online booking system for hotels happy hostel a website for a hostel company booking a design for a more corporate based company </description>
     </item>
     
   </channel>

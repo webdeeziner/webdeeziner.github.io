@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://webdeeziner.github.io/work/article3/</loc>
-    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://webdeeziner.github.io/blog/blog3/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://webdeeziner.github.io/blog/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://webdeeziner.github.io/work/college/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://webdeeziner.github.io/</loc>
@@ -20,13 +20,13 @@
     <loc>https://webdeeziner.github.io/blog/blog2/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://webdeeziner.github.io/work/post2/</loc>
+    <loc>https://webdeeziner.github.io/work/printdesign/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://webdeeziner.github.io/work/article1/</loc>
+    <loc>https://webdeeziner.github.io/blog/blog1/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://webdeeziner.github.io/blog/blog1/</loc>
+    <loc>https://webdeeziner.github.io/work/webdesign/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://webdeeziner.github.io/categories/</loc>
