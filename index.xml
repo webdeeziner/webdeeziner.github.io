@@ -6,7 +6,25 @@
     <description>Recent content on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cute Web Design</title>
+      <link>https://webdeeziner.github.io/work/cutewebdesign/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/work/cutewebdesign/</guid>
+      <description>&lt;p&gt;Here’s a quick mock up I made using Sketch. Simple clean design ideal for a tech startup company.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Logo Design</title>
+      <link>https://webdeeziner.github.io/work/logodesign/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/work/logodesign/</guid>
+      <description>&lt;p&gt;A few brand identity ideas for a selection of businesses.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>RPG Maker</title>
       <link>https://webdeeziner.github.io/work/rpgmaker/</link>
