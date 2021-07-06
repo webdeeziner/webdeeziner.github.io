@@ -8,30 +8,33 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog number3</title>
-      <link>https://webdeeziner.github.io/blog/blog3/</link>
+      <title>Create a WordPress test environment</title>
+      <link>https://webdeeziner.github.io/blog/blog03/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://webdeeziner.github.io/blog/blog3/</guid>
-      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+      <guid>https://webdeeziner.github.io/blog/blog03/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/instantWP.png&#34; alt=&#34;grid generator&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The easiest and quickest way to install a WordPress test environment to your local machine.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Blog number 2</title>
-      <link>https://webdeeziner.github.io/blog/blog2/</link>
+      <title>WordPress test data</title>
+      <link>https://webdeeziner.github.io/blog/blog02/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://webdeeziner.github.io/blog/blog2/</guid>
-      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+      <guid>https://webdeeziner.github.io/blog/blog02/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/wpTestData.png&#34; alt=&#34;grid generator&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When you are developing a WordPress Theme you can download this Test Data.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Blog Article number 1</title>
-      <link>https://webdeeziner.github.io/blog/blog1/</link>
+      <title>Build your own responsive framework</title>
+      <link>https://webdeeziner.github.io/blog/blog01/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://webdeeziner.github.io/blog/blog1/</guid>
-      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+      <guid>https://webdeeziner.github.io/blog/blog01/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/gridGenerator.jpg&#34; alt=&#34;grid generator&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use this calculator to help you build a responsive website.&lt;/p&gt;</description>
     </item>
     
   </channel>
