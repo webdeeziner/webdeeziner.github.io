@@ -6,7 +6,27 @@
     <description>Recent content on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animate a background image with CSS</title>
+      <link>https://webdeeziner.github.io/blog/blog05/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog05/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/animateBackground.png&#34; alt=&#34;background animation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A simple background animation, and best of all, it&amp;rsquo;s accomplished by just CSS!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Child and Sibling Selectors</title>
+      <link>https://webdeeziner.github.io/blog/blog04/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog04/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/childSelector.png&#34; alt=&#34;css selectors&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Just what is the difference between the Child, Adjacent and General sibling combinator in CSS.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hotel Web Design</title>
       <link>https://webdeeziner.github.io/work/hotelwebsite/</link>

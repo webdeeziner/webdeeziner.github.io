@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Build your own responsive framework | Deeziner</title>
+    <title>Child and Sibling Selectors | Deeziner</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="
-Use this calculator to help you build a responsive website.">
+Just what is the difference between the Child, Adjacent and General sibling combinator in CSS.">
     <meta name="generator" content="Hugo 0.83.1" />
     
     
@@ -35,23 +35,23 @@ Use this calculator to help you build a responsive website.">
 
     
     
-    <meta property="og:title" content="Build your own responsive framework" />
+    <meta property="og:title" content="Child and Sibling Selectors" />
 <meta property="og:description" content="
-Use this calculator to help you build a responsive website." />
+Just what is the difference between the Child, Adjacent and General sibling combinator in CSS." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://webdeeziner.github.io/blog/blog01/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2021-06-11T00:00:00&#43;00:00" />
-<meta property="article:modified_time" content="2021-06-11T00:00:00&#43;00:00" />
+<meta property="og:url" content="https://webdeeziner.github.io/blog/blog04/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2021-07-12T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2021-07-12T00:00:00&#43;00:00" />
 
-<meta itemprop="name" content="Build your own responsive framework">
+<meta itemprop="name" content="Child and Sibling Selectors">
 <meta itemprop="description" content="
-Use this calculator to help you build a responsive website."><meta itemprop="datePublished" content="2021-06-11T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2021-06-11T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="40">
+Just what is the difference between the Child, Adjacent and General sibling combinator in CSS."><meta itemprop="datePublished" content="2021-07-12T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2021-07-12T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="151">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Build your own responsive framework"/>
+<meta name="twitter:title" content="Child and Sibling Selectors"/>
 <meta name="twitter:description" content="
-Use this calculator to help you build a responsive website."/>
+Just what is the difference between the Child, Adjacent and General sibling combinator in CSS."/>
 
 	
   </head>
@@ -127,18 +127,28 @@ Use this calculator to help you build a responsive website."/>
        
       </aside>
       
-      <h1 class="f1 athelas mt3 mb1">Build your own responsive framework</h1>
+      <h1 class="f1 athelas mt3 mb1">Child and Sibling Selectors</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2021-06-11T00:00:00Z">June 11, 2021</time>
+      <time class="f6 mv4 dib tracked" datetime="2021-07-12T00:00:00Z">July 12, 2021</time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p><img src="/images/blog/gridGenerator.jpg" alt="grid generator"></p>
-<p>Use this calculator to help you build a responsive website.</p>
-<p>Decide the number of columns you want in a row &amp; set the margin you want to use. This grid generator will calculate all the maths for you. Easy.</p>
-<p><a href="http://www.responsivegridsystem.com/calculator/">http://www.responsivegridsystem.com/calculator/</a></p><ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p><img src="/images/blog/childSelector.png" alt="css selectors"></p>
+<p>Just what is the difference between the Child, Adjacent and General sibling combinator in CSS.</p>
+<p>I found a great article about this here <a href="https://css-tricks.com/child-and-sibling-selectors/">https://css-tricks.com/child-and-sibling-selectors/</a></p>
+<p><strong>These images are a really handy way to visualise the difference between how these CSS selectors work.</strong></p>
+<p>ul li { } Selects all li elements within the initial ul (even if you nest a ul within a ul)</p>
+<p>ul &gt; li { } Selects only the li elements within the top level (it ignores any li’s within a nested ul)</p>
+<p><img src="/images/blog/child-combinator-selector-example.png" alt="css selectors"></p>
+<p>p + p { } Selects any paragraph directly after a first paragraph.</p>
+<p>div + p { } Selects any paragraph that comes directly after a div.</p>
+<p><img src="/images/blog/adjacent-selector-example.png" alt="css selectors"></p>
+<p>p ~ p { } Selects all the paragraphs that follow the initial paragraph.</p>
+<p>div ~ p { } Selects all paragraphs that follow after a div.</p>
+<p><img src="/images/blog/general-sibling-example.png" alt="css selectors"></p>
+<p>For a more in depth look at how these selectors work visit <a href="https://css-tricks.com/child-and-sibling-selectors/">https://css-tricks.com/child-and-sibling-selectors/</a></p><ul class="pa0">
   
 </ul>
 <div class="mt6 instapaper_ignoref">
