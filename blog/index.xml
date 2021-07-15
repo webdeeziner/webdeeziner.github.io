@@ -6,7 +6,37 @@
     <description>Recent content in Blogs on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Color Palette from Flat UI Theme</title>
+      <link>https://webdeeziner.github.io/blog/blog07/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog07/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/flatUI.png&#34; alt=&#34;color palette&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Copy and Paste Color Palette from Flat UI Theme&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to make a custom 404 page</title>
+      <link>https://webdeeziner.github.io/blog/blog06/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog06/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/404.png&#34; alt=&#34;404 page&#34;&gt;&lt;/p&gt;
+&lt;p&gt;How do I create a custom 404 error page?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ordering your bootstrap columns</title>
+      <link>https://webdeeziner.github.io/blog/blog08/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog08/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/bootstrap.png&#34; alt=&#34;bootstrap columns&#34;&gt;&lt;/p&gt;
+&lt;p&gt;How do you make the bootstrap column on the right stack on top of the column on the left in mobile view?&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Animate a background image with CSS</title>
       <link>https://webdeeziner.github.io/blog/blog05/</link>
