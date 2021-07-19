@@ -6,7 +6,57 @@
     <description>Recent content in Blogs on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap Cheat Sheet</title>
+      <link>https://webdeeziner.github.io/blog/blog12/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog12/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/bootstrap4_cheatsheet.png&#34; alt=&#34;bootstrap&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Bootstrap 4 and 5 Cheat Sheet PDF With Examples and All Classes&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS Speech Bubble Generator</title>
+      <link>https://webdeeziner.github.io/blog/blog11/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog11/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/bubbler.png&#34; alt=&#34;bubble&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Bubbler – CSS Speech Bubble Generator – i like pixels &amp;lt;3&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pair Google Fonts together.</title>
+      <link>https://webdeeziner.github.io/blog/blog09/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog09/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/pair_fonts.png&#34; alt=&#34;pair fonts&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Font Pair – Helps designers pair Google Fonts together.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sticky-Kit makes elements stick</title>
+      <link>https://webdeeziner.github.io/blog/blog13/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog13/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/sticky_kit.png&#34; alt=&#34;sticky kit&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sticky-Kit is a jQuery plugin for making sticky elements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Type Scale – A Visual Calculator</title>
+      <link>https://webdeeziner.github.io/blog/blog10/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog10/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/type_scale.png&#34; alt=&#34;type scale&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Preview and choose the right type scale for your project.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Color Palette from Flat UI Theme</title>
       <link>https://webdeeziner.github.io/blog/blog07/</link>
