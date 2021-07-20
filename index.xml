@@ -6,7 +6,57 @@
     <description>Recent content on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add space above your anchor tag</title>
+      <link>https://webdeeziner.github.io/blog/blog14/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog14/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/anchor.png&#34; alt=&#34;anchor&#34;&gt;&lt;/p&gt;
+&lt;p&gt;How to add some extra space above your anchor tag.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS Gradient Animator</title>
+      <link>https://webdeeziner.github.io/blog/blog18/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog18/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/gradient.jpg&#34; alt=&#34;gradient&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A CSS generator to create beautiful animated gradients&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Grid by Example</title>
+      <link>https://webdeeziner.github.io/blog/blog16/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog16/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/grid.jpg&#34; alt=&#34;grid&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Get started with CSS Grid Layout with this site that shows you “Everything you need to learn CSS Grid Layout”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML formatted Lorem ipsum</title>
+      <link>https://webdeeziner.github.io/blog/blog17/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog17/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/loremHTML.png&#34; alt=&#34;lorem&#34;&gt;&lt;/p&gt;
+&lt;p&gt;“Lorem Ipsum” text for web design projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Flexbox Cheat Sheet</title>
+      <link>https://webdeeziner.github.io/blog/blog15/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog15/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/flex.png&#34; alt=&#34;flexbox&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Advanced layout with flexbox css&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Bootstrap Cheat Sheet</title>
       <link>https://webdeeziner.github.io/blog/blog12/</link>
