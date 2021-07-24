@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bootstrap Layout Tool</title>
+      <link>https://webdeeziner.github.io/blog/blog27/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog27/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/bootstrapBuilder.png&#34; alt=&#34;layout&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A Bootstrap Builder tool to help you create Bootstrap UIs with a drag-and-drop interface.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coolers – color palettes</title>
+      <link>https://webdeeziner.github.io/blog/blog28/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog28/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/coolers.jpg&#34; alt=&#34;coolers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Coolers lets you browse through a selection of color palettes, and copy / export each in a variety of formats.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Font Awesome Cheatsheet</title>
       <link>https://webdeeziner.github.io/blog/blog23/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
@@ -15,6 +35,26 @@
       <guid>https://webdeeziner.github.io/blog/blog23/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/fontawesome.png&#34; alt=&#34;font awesome&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Install the font awesome font and use this cheatsheet to find the icon  you need.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golden ratio text / font calculator</title>
+      <link>https://webdeeziner.github.io/blog/blog30/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog30/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/modularScale.png&#34; alt=&#34;coolers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Using Modular Scale – you can easily calculate font sizes for any ratio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Grabient – gradient collection</title>
+      <link>https://webdeeziner.github.io/blog/blog29/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog29/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/grabient.jpg&#34; alt=&#34;coolers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A collection of beautiful modern gradients for you to copy and use in your work. Copy the css or copy the hex and use in Illustrator/Photoshop etc.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,6 +115,16 @@
       <guid>https://webdeeziner.github.io/blog/blog19/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/shoelace.png&#34; alt=&#34;shoelace&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Shoelace provides a collection of professionally designed, every day UI components&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>View web design on a virtual screen</title>
+      <link>https://webdeeziner.github.io/blog/blog31/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog31/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/placeIt.png&#34; alt=&#34;coolers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;View your design from a new angle on a MacBook or a Tablet or a Desktop screen.&lt;/p&gt;</description>
     </item>
     
     <item>
