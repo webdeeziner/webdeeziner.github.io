@@ -6,7 +6,87 @@
     <description>Recent content in Blogs on Deeziner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://webdeeziner.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Font Awesome Cheatsheet</title>
+      <link>https://webdeeziner.github.io/blog/blog23/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog23/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/fontawesome.png&#34; alt=&#34;font awesome&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the font awesome font and use this cheatsheet to find the icon  you need.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hover.css – CSS3 powered hover effects</title>
+      <link>https://webdeeziner.github.io/blog/blog20/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/hover.png&#34; alt=&#34;hover&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A collection of CSS3 powered hover effects&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Material design components</title>
+      <link>https://webdeeziner.github.io/blog/blog22/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog22/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/material_components.png&#34; alt=&#34;material&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you ever need some ideas for design patterns, then this list of Material Design Components is a good place to look.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Material Design Icon Font : Cheatsheet</title>
+      <link>https://webdeeziner.github.io/blog/blog24/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog24/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/Material-Design-Iconic-Font.png&#34; alt=&#34;Material Design&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Material Design Iconic Font is a full suite of material design icons&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Material design tools</title>
+      <link>https://webdeeziner.github.io/blog/blog21/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog21/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/material.png&#34; alt=&#34;material&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use Material tools, downloads, and interactive projects to simplify your workflow&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PX to EM Conversion Table</title>
+      <link>https://webdeeziner.github.io/blog/blog25/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog25/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/convert.png&#34; alt=&#34;Conversion&#34;&gt;&lt;/p&gt;
+&lt;p&gt;One-click PX/EM/%/PT conversion tables, a custom conversion calculator, gnd generated reset CSS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shoelace.css: a CSS starter kit</title>
+      <link>https://webdeeziner.github.io/blog/blog19/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog19/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/shoelace.png&#34; alt=&#34;shoelace&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Shoelace provides a collection of professionally designed, every day UI components&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress Development for Beginners: Building Themes</title>
+      <link>https://webdeeziner.github.io/blog/blog26/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeeziner.github.io/blog/blog26/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://webdeeziner.github.io/images/blog/wordpress.png&#34; alt=&#34;wordpress&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A great series for beginners, teaching the fundamental concepts of WordPress development.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Add space above your anchor tag</title>
       <link>https://webdeeziner.github.io/blog/blog14/</link>
